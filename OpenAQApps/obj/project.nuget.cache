@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q76WgUivXzrfphuAddkjQACW7IEQkSKrFw6M30OY6+Z1NnB7Ed6b1fZO9gY5g/0/Tf+RwQ2U25iSzhIY6O6nsw==",
+  "dgSpecHash": "SB3el99aTm9veJ+5RZ1STWHN3TVDMapQkntMTj6C+h54OfhJ/zHu5jTLO6oyoh8aCR+wGDr+X2wtpjT6BLDMnA==",
   "success": true,
-  "projectFilePath": "C:\\Project\\OpenAQApp\\OpenAQApps\\OpenAQApps.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\OpenAQApp\\OpenAQApps\\OpenAQApps.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",

@@ -11,3 +11,16 @@ C:\Users\Admin\Downloads\OpenAQApp\OpenAQApp\APILibrary\obj\Release\net6.0\APILi
 C:\Users\Admin\Downloads\OpenAQApp\OpenAQApp\APILibrary\obj\Release\net6.0\refint\APILibrary.dll
 C:\Users\Admin\Downloads\OpenAQApp\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.pdb
 C:\Users\Admin\Downloads\OpenAQApp\OpenAQApp\APILibrary\obj\Release\net6.0\ref\APILibrary.dll
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\bin\Release\net6.0\APILibrary.dll.config
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\bin\Release\net6.0\APILibrary.deps.json
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\bin\Release\net6.0\APILibrary.dll
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\bin\Release\net6.0\APILibrary.pdb
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.dll
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\refint\APILibrary.dll
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\APILibrary.pdb
+C:\Users\Admin\Documents\GitHub\OpenAQApp\APILibrary\obj\Release\net6.0\ref\APILibrary.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYcsmHcSiGcuLQIwj5doLOg0/uMDLst+cY6u4XCbrORiT0qTAxvOIgsKovo96+AcwZJIrzIWK96yXymuXj3Aag==",
+  "dgSpecHash": "CURlrCe5VDoOR8fZF02kKhfBwga7H2sBRGa9wL6b713sZw7o14y/9wkokNmwllkicQ8mgiRuFsK/5g9qNDFW1A==",
   "success": true,
-  "projectFilePath": "C:\\Project\\OpenAQApp\\APILibrary\\APILibrary.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\OpenAQApp\\APILibrary\\APILibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.9\\microsoft.aspnet.webapi.client.5.2.9.nupkg.sha512",

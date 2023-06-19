@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APILibrary", "APILibrary\AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAQApps", "OpenAQApps\OpenAQApps.csproj", "{F177C4CA-4D99-45D5-9685-3F4824B1EE12}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAQTests", "TestProject2\OpenAQTests.csproj", "{EAC6875E-6E69-47C5-89F5-4BF24064AB5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAQTests", "OpenAQTests\OpenAQTests.csproj", "{EAC6875E-6E69-47C5-89F5-4BF24064AB5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
